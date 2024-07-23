@@ -6,7 +6,7 @@ This is a quick  overview for my Gnome-Terminal settings
 
 
 ## Text and Background Color:
-![Alt text](text_and_background_color.jpg)
+![Alt text](text_and_background_color.png)
 
 Built-in-schemes:  'custom'
 ```
