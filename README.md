@@ -1,5 +1,10 @@
-![text_appearance](https://github.com/user-attachments/assets/7e1b1a84-2d30-4f59-a4d7-e33d6b764be5)# terminal_settings
+# terminal_settings
 This is a quick  overview for my Gnome-Terminal settings
+
+# Terminal currently visualised:
+![Alt text](showcase_terminal.png)
+![Alt text](showcase_highlight.png)
+
 
 
 
