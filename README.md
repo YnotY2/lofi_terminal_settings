@@ -1,6 +1,5 @@
-# terminal_settings
+![text_appearance](https://github.com/user-attachments/assets/7e1b1a84-2d30-4f59-a4d7-e33d6b764be5)# terminal_settings
 This is a quick  overview for my Gnome-Terminal settings
-
 
 
 
@@ -20,5 +19,13 @@ Highlight color:    #2C2F33            #FF8080
 ```
 
 
-## Other configurations visualised:
-![Alt text](text_and_background_color.jpg)
+## Text Appearance:
+![Alt text](text_appearance.png)
+
+## Global Preferences 
+![Alt text](preferences_global.png)
+
+## Scrolling Settings
+![Alt text](scrolling_settings.png)
+
+
