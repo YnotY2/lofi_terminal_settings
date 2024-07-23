@@ -1,4 +1,4 @@
-# terminal_settings
+# Lofi terminal settings 🌱
 This is a quick  overview for my Gnome-Terminal settings
 
 # Terminal currently visualised:
